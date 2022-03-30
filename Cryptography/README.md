@@ -1,17 +1,9 @@
 ## _Cryptography_
-In the republic of Santa Cruz some words are not allowed to be said and if the user uses them they will be sent to a joycamp. In addition, there are some words that should be replaced by new words and if the user says they will be given a warning.
-## OPTIONS 
-
-- -h prints out the program usage. Refer to the reference program in the resources repository
-for what to print.
-- -t size specifies that the hash table will have size entries (the default will be 216).
-- -f size specifies that the Bloom filter will have size entries (the default will be 220).
-- -s will enable the printing of statistics to stdout. The statistics to calculate are:
-Average binary search tree size
-Average binary search tree height
-Average branches traversed
-Hash table load
-Bloom filter load
+The objective of this program is to encrypt and decrypt data.
+## Files 
+- encrypt.c: Encrypts data using RSA encryption.
+- decrypt.c: Decrypts data using RSA decryption.
+- keygen.c: Generate an RSA public/private key pair.
 ## Makefile
 Will be used to compile the program and run:
 - make format: will format the files.
