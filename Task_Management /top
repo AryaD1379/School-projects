@@ -1,0 +1,53 @@
+[33mcommit 90a269c40b10cd2268e05911c36009b9ba12c99c[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: dcdo-ucsc <103465441+dcdo-ucsc@users.noreply.github.com>
+Date:   Tue May 28 17:31:43 2024 -0700
+
+    index.html filter added
+
+[33mcommit df406b6e0cf2ec3f93becab8ff4abfac6a4689f9[m
+Author: Aryan Dadnam <Aryan.dadnam@gmail.com>
+Date:   Tue May 28 16:40:14 2024 -0700
+
+    adding models.py
+
+[33mcommit 64e2949679f6ddfa09c9d0e26e24cddb88fd362c[m
+Author: Aryan Dadnam <Aryan.dadnam@gmail.com>
+Date:   Tue May 28 16:34:15 2024 -0700
+
+    models.py
+
+[33mcommit e0dcf43e6382753b431b20f7ac2667ed2db3655b[m
+Author: Aryan Dadnam <84446295+AryaD1379@users.noreply.github.com>
+Date:   Mon May 27 23:19:04 2024 -0700
+
+    Delete password.txt
+
+[33mcommit dca53100c8a1cdf108a5c6e4e0e30661586ed98a[m
+Author: Aryan Dadnam <Aryan.dadnam@gmail.com>
+Date:   Mon May 27 23:16:37 2024 -0700
+
+    adding password
+
+[33mcommit ab917f4e01d54fee67ae42aeda65de3065b6df8f[m
+Author: Aryan Dadnam <Aryan.dadnam@gmail.com>
+Date:   Mon May 27 23:15:37 2024 -0700
+
+    adding starting point
+
+[33mcommit 405c57199d9ec36dae6513d855542225fdeb326b[m
+Author: Aryan Dadnam <Aryan.dadnam@gmail.com>
+Date:   Mon May 27 23:14:42 2024 -0700
+
+    removing
+
+[33mcommit 3ac43d6f45031cf027c663ad07e22f0db5b2d151[m
+Author: Aryan Dadnam <Aryan.dadnam@gmail.com>
+Date:   Mon May 27 23:02:30 2024 -0700
+
+    adding starting point
+
+[33mcommit 73caca0dbac059b5e5430ad478ecd53ddc764d29[m
+Author: Massimo Di Pierro <massimo.dipierro@gmail.com>
+Date:   Wed May 15 23:08:05 2024 -0700
+
+    Initial commit
