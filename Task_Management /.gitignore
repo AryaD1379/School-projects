@@ -6,3 +6,6 @@ apps/_minimal
 apps/_default 
 apps/showcase
 apps/.service
+.DS_Store
+metadata.json
+top
